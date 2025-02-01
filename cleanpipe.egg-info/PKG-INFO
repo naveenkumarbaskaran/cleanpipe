@@ -1,0 +1,13 @@
+Metadata-Version: 2.2
+Name: cleanpipe
+Version: 0.1.0
+Summary: A simple data cleaning pipeline built on pandas
+Author: Naveen Kumar Baskaran
+Author-email: naveenkb142@gmail.com
+Classifier: Programming Language :: Python :: 3
+Requires-Dist: pandas
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: requires-dist
+Dynamic: summary

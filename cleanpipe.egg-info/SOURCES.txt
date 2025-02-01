@@ -1,0 +1,11 @@
+README.md
+setup.py
+cleanpipe/__init__.py
+cleanpipe/cleaning.py
+cleanpipe.egg-info/PKG-INFO
+cleanpipe.egg-info/SOURCES.txt
+cleanpipe.egg-info/dependency_links.txt
+cleanpipe.egg-info/requires.txt
+cleanpipe.egg-info/top_level.txt
+tests/__init__.py
+tests/test_cleaning.py
